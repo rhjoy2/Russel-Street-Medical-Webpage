@@ -7,3 +7,6 @@ Notes:
 5) Appointments.txt includes all information required but administration page only shows everything except the time the booking was made in as it seemed unnecessary. Human readable date is implemented including superscript.
 6) Two users(Stephen and Abigale) at registered already, Kiyoko is not and left for testing by the marker.
 7) Tools folder contains head, navbar and footer php files as it was common in all the main pages and used by "required_once" function of php.
+
+# Web Programming
+# Obtained marks: 82%
