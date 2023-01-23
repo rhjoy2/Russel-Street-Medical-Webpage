@@ -1,0 +1,6 @@
+Paitent ID, Date, Time, Reason, Time of booking
+HD1A,Thursday," 13<sup>th</sup> October 2022","Morning ","Childhood Vaccination Shots","10-10-22 12:51:49"
+TR11B,Thursday," 6<sup>th</sup> October 2022","Morning ","Blood Test","10-10-22 12:51:50"
+SL998Z,Thursday," 13<sup>th</sup> October 2022","Morning ","Influenza Shot","10-10-22 12:51:51"
+KM999A,Saturday," 29<sup>th</sup> October 2022","Late Afternoon ","Influenza Shot","10-10-22 12:51:52"
+PA814235W,Monday," 24<sup>th</sup> October 2022","Afternoon Late Afternoon ","Childhood Vaccination Shots","10-10-22 12:51:53"
